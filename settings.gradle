@@ -1,1 +1,1 @@
-include ':withGradle'
+include ':withGradle', ':withJar'
