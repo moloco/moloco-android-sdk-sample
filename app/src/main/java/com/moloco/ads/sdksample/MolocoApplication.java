@@ -12,8 +12,7 @@ public class MolocoApplication extends Application {
     public void onCreate() {
         super.onCreate();
         molocoEntryPoint = MolocoEntryPoint.newInstance(this);
-        molocoEntryPoint.init();
+        molocoEntryPoint.init(getString(R.string.auth_key));
     }
 
-    
 }

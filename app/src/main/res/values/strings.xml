@@ -2,4 +2,5 @@
     <string name="app_name">SDKSample</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="auth_key">721388f7ba4f756cd3dcdc27951c19ab7e649fb2</string>
 </resources>
